@@ -1,0 +1,15 @@
+F:\Vs\Source\Lr5\Lr5\bin\Debug\net6.0\Lr5.exe
+F:\Vs\Source\Lr5\Lr5\bin\Debug\net6.0\Lr5.deps.json
+F:\Vs\Source\Lr5\Lr5\bin\Debug\net6.0\Lr5.runtimeconfig.json
+F:\Vs\Source\Lr5\Lr5\bin\Debug\net6.0\Lr5.dll
+F:\Vs\Source\Lr5\Lr5\bin\Debug\net6.0\Lr5.pdb
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.csproj.AssemblyReference.cache
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.AssemblyInfoInputs.cache
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.AssemblyInfo.cs
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.csproj.CoreCompileInputs.cache
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.dll
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\refint\Lr5.dll
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.pdb
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\Lr5.genruntimeconfig.cache
+F:\Vs\Source\Lr5\Lr5\obj\Debug\net6.0\ref\Lr5.dll
